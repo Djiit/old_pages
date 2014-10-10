@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Julien Tanay'
 SITENAME = 'Julien Tanay'
-SITEURL = 'https://djiit.github.io'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -37,7 +37,6 @@ SOCIAL = (
 # PROFILE_IMG_URL = 
 TAGLINE = "All your code are belong to us"
 # FAVICON_URL = 
-DISQUS_SITENAME = 'djiit'
 
 DEFAULT_PAGINATION = 10
 
