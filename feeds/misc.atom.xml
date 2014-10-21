@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Julien Tanay</title><link href="http://djiit.github.io/" rel="alternate"></link><link href="http://djiit.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://djiit.github.io/</id><updated>2014-10-10T10:20:00+02:00</updated><entry><title>Article 1</title><link href="http://djiit.github.io/article-1.html" rel="alternate"></link><updated>2014-10-10T10:20:00+02:00</updated><author><name>Julien Tanay</name></author><id>tag:djiit.github.io,2014-10-10:article-1.html</id><summary type="html">&lt;p&gt;Un article&lt;/p&gt;</summary></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Julien Tanay</title><link href="http://djiit.github.io/" rel="alternate"></link><link href="http://djiit.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://djiit.github.io/</id><updated>2014-10-10T10:20:00+02:00</updated><entry><title>Ceci n'est pas un blog</title><link href="http://djiit.github.io/article-1.html" rel="alternate"></link><updated>2014-10-10T10:20:00+02:00</updated><author><name>Julien Tanay</name></author><id>tag:djiit.github.io,2014-10-10:article-1.html</id><summary type="html">&lt;h2&gt;Hello world&lt;/h2&gt;
+&lt;p&gt;WORK IN PROGRESS&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</summary></entry></feed>
